@@ -1,18 +1,3 @@
 <template>
-  <div>
-    <BlogBackground>
-      <h1>Register</h1>
-      <p>
-        This is also an Empty side :3
-      </p>
-    </BlogBackground>
-  </div>
+  <RegisterSignUp :is-sing-up-not-login="true" class="m-5"/>
 </template>
-
-<script lang="ts" setup>
-
-</script>
-
-<style>
-
-</style>

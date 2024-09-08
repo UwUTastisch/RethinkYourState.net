@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="w-full">
     <BlogBackground>
       <h1>Home</h1>
       <p>
